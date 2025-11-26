@@ -6,7 +6,7 @@
 
 ## Overview
 
-This project simulates the board game **Cant Stop** using 4 dice. It calculates:  
+This project simulates the board game **Can't Stop** using 4 dice. It calculates:  
 
 - Frequencies of sums of dice rolls  
 - Probabilities of sum **pairs** and **triples**  
