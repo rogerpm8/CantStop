@@ -1,4 +1,4 @@
-# Cant Stop Probability Calculator 🎲
+# Can't Stop Probability Calculator 🎲
 
 **Author:** Roger  
 **Language:** C++  
