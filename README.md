@@ -1,8 +1,5 @@
 # Can't Stop Probability Calculator 🎲
 
-**Author:** Roger  
-**Language:** C++  
-
 ![C++](https://img.shields.io/badge/Language-C++-blue)
 
 ---
